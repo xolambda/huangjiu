@@ -5,11 +5,6 @@
 <i>The alternative alternative alternative alternative FreeBSD Roblox launcher</i>
 </p>
 
-<p align="center">
-<img src="assets/ayogima.gif" width="220" alt="ayogima.gif">
-</p>
-
-
 Questions & Answers
 
 <details>
