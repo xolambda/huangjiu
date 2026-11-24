@@ -48,7 +48,5 @@ Go fuck yourself
 </details>
 
 <p align="center">
-<sub>HUANGIJU</sub>
-<br>
-<sub>There was probably a better way to spend the time.</sub>
-</p>
+<sub>bsd 3-clause - read LICENSE</sub>
+
